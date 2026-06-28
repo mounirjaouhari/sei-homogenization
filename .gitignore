@@ -1,0 +1,33 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# --- MATLAB ---
+*.asv
+*.mat
+*.mex*
+slprj/
+
+# --- Regenerated solver / pipeline outputs (reproduce with run_all / pipeline) ---
+results/*.mat
+output/data/
+output/figures/
+output/latex/
+output/matlab/
+
+# --- LaTeX / build aux (if any) ---
+*.aux
+*.log
+*.out
+*.synctex.gz
+
+# --- OS / editor cruft ---
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~

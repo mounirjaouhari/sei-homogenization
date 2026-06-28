@@ -1,0 +1,7 @@
+# Normalize line endings: text files are stored as LF in the repository
+* text=auto eol=lf
+
+# Treat known binary assets as binary (no EOL conversion / no diff)
+*.png  binary
+*.mat  binary
+*.pdf  binary

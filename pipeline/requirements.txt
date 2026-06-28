@@ -1,0 +1,18 @@
+# =====================================================================
+#  SEI MP Integration — Requirements
+# =====================================================================
+# Core dependencies
+mp-api>=0.41.0          # Materials Project REST API client
+pymatgen>=2024.5.1      # Materials analysis (required by mp-api)
+pandas>=2.0.0           # Data manipulation
+numpy>=1.24.0           # Numerical computations
+scipy>=1.10.0           # Optimization, interpolation
+
+# Plotting
+matplotlib>=3.7.0       # Figure generation (Figure 4 de l'article)
+
+# Optional : pour le dashboard interactif (futur)
+# streamlit>=1.30.0
+# plotly>=5.18.0
+
+# Python >= 3.9 required

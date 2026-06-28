@@ -1,0 +1,55 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the software and the accompanying article."
+title: "sei-jump-conditions: validation suite for chemo-mechanical SEI jump conditions"
+abstract: >-
+  Reproducible MATLAB and Python validation of asymptotically-derived
+  chemo-mechanical jump conditions for the solid-electrolyte interphase (SEI)
+  in lithium-ion batteries: 1D/2D finite-element solvers, normal/tangential
+  interface anisotropy, bilayer and curved-interface effective laws,
+  composition-based fracture energy, and calibration-free capacity fade.
+type: software
+authors:
+  - family-names: Jaouhari
+    given-names: Mounir
+    email: mounir.jaouhari-etu@etu.univh2c.ma
+    affiliation: "ENS, Hassan II University, Casablanca, Morocco"
+  - family-names: Rachid
+    given-names: Anas
+    email: rachid.anas@gmail.com
+    affiliation: "ENS, Hassan II University, Casablanca, Morocco"
+  - family-names: Sbitti
+    given-names: Amine
+    email: amine.sbitti@ensam.um5.ac.ma
+    affiliation: "ENSAM, Mohammed V University, Rabat, Morocco"
+  - family-names: Belemou
+    given-names: Rachid
+    email: rachid.belemou-etu@etu.univh2c.ma
+    affiliation: "ENS, Hassan II University, Casablanca, Morocco"
+version: "1.0.0"
+date-released: "2026-06-28"
+license: MIT
+# TODO: replace <your-github-username> once the repository is created
+repository-code: "https://github.com/<your-github-username>/sei-jump-conditions"
+keywords:
+  - solid electrolyte interphase
+  - asymptotic homogenization
+  - chemo-mechanics
+  - lithium-ion batteries
+  - finite element method
+  - cohesive zone
+  - reproducible research
+preferred-citation:
+  type: article
+  title: "Asymptotic Derivation of Chemo-Mechanical Jump Conditions for the Solid Electrolyte Interphase in Lithium-Ion Batteries"
+  authors:
+    - family-names: Jaouhari
+      given-names: Mounir
+    - family-names: Rachid
+      given-names: Anas
+    - family-names: Sbitti
+      given-names: Amine
+    - family-names: Belemou
+      given-names: Rachid
+  year: 2026
+  # journal: "TODO: journal name"
+  # doi: "TODO: DOI once published"

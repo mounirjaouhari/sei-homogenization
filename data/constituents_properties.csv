@@ -1,0 +1,6 @@
+name,formula,mp_id,category,source,E_Pa,nu,K_Pa,G_Pa,elastic_tensor,density,formation_energy_eV_per_atom,energy_above_hull_eV_per_atom,band_gap_eV,D_Li_m2s,fracture_toughness_MPa_sqrt_m,fracture_energy_Jm2,beta_vegard_m3_per_mol,crystal_system,space_group
+LiF,LiF,mp-1137,inorganic,literature,65000000000.0,0.24,35600000000.0,26200000000.0,,2640.0,0.0,0.0,13.7,1e-17,1.0,5000000000.0,0.002,cubic,Fm-3m
+Li2CO3,Li2CO3,mp-755798,inorganic,literature,60000000000.0,0.27,39400000000.0,23600000000.0,,2110.0,0.0,0.0,5.4,1e-16,0.7,3000000000.0,0.003,monoclinic,C2/m
+Li2O,Li2O,mp-1960,inorganic,literature,80000000000.0,0.2,44400000000.0,33300000000.0,,2010.0,0.0,0.0,7.7,1e-15,0.8,4000000000.0,0.004,cubic,Fm-3m
+Li2C2O4,Li2C2O4,mp-23953,organic,literature,2000000000.0,0.35,2200000000.0,740000000.0,,1980.0,0.0,0.0,3.5,1e-15,0.2,500000000.0,0.008,monoclinic,P21/c
+LiOH,LiOH,mp-23651,inorganic,literature,38000000000.0,0.3,31700000000.0,14600000000.0,,1460.0,0.0,0.0,5.2,1e-15,0.5,2000000000.0,0.005,tetragonal,P4/nmm
