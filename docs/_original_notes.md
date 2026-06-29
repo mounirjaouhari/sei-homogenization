@@ -113,4 +113,4 @@ Pour un test individuel :
 
 ## Auteur
 
-[Author] et J.-J. Marigo, École Polytechnique, LMS, CNRS UMR 7649.
+J.Mounir, École Normale Supérieur CASABLANCA.
